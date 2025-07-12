@@ -175,13 +175,11 @@ npm run report
 
 ## 📌 Author
 
-This project is authored and maintained by:
-
-**Seenuvasan Velmurugan**
-QA Automation Engineer | SDET | ISTQB Certified | Professional Scrum Master II | Professional Scrum Product Owner II
-📍 Chennai, India
-📧 [seenuvasanvelmurugan@gmail.com](mailto:seenuvasanvelmurugan@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/seenuvasan-velmurugan-professional-social-profile) | [GitHub](https://github.com/Seenuvasan91)
+**Seenuvasan Velmurugan**  
+**QA Automation Engineer | SDET | ISTQB Certified | PSM II | PSPO II**  
+📍 *Chennai, India*  
+📧 [seenuvasanvelmurugan@gmail.com](mailto:seenuvasanvelmurugan@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/seenuvasan-velmurugan-professional-social-profile) • [GitHub](https://github.com/Seenuvasan91)
 
 ---
 
