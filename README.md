@@ -28,6 +28,7 @@ Test cases are structured with **Playwright’s test runner**, allowing seamless
 
 ## 📂 Project Structure
 
+```
 playwright-typescript-automation-framework/
 │
 ├── .github/                        # GitHub workflows
@@ -73,6 +74,7 @@ playwright-typescript-automation-framework/
 ├── README.md                       # Project documentation
 ├── index.md                        # GitHub Pages documentation (optional)
 └── jest.config.ts                  # Jest configuration (if used)
+```
 
 ---
 
