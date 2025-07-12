@@ -32,47 +32,47 @@ playwright-typescript-automation-framework/
 │
 ├── .github/                         # GitHub-specific workflows and settings
 │   └── workflows/
-│       └── playwright.yml          # GitHub Actions CI pipeline
+│       └── playwright.yml           # GitHub Actions CI pipeline
 │
 ├── src/                             # Source code folder
 │   ├── config/
-│   │   └── config.ts               # Global configuration setup
-│   │   └── environment.ts         # Environment variables and URLs
+│   │   ├── config.ts                # Global configuration setup
+│   │   └── environment.ts           # Environment variables and URLs
 │
 │   ├── testdata/
-│   │   └── testData.xlsx           # Excel-based test data for DDT
+│   │   └── testData.xlsx            # Excel-based test data for DDT
 │
 │   ├── tests/
-│   │   ├── LoginTest.spec.ts       # Sample test file
-│   │   └── CheckoutTest.spec.ts    # Sample test file
+│   │   ├── LoginTest.spec.ts        # Sample test file
+│   │   └── CheckoutTest.spec.ts     # Sample test file
 │
 │   ├── keywords/
-│   │   ├── BasePage.ts             # Reusable base page methods
-│   │   └── LoginKeywords.ts        # Reusable login-related actions
+│   │   ├── BasePage.ts              # Reusable base page methods
+│   │   └── LoginKeywords.ts         # Reusable login-related actions
 │
 │   ├── pages/
-│   │   ├── LoginPage.ts            # Page Object for login
-│   │   └── CheckoutPage.ts         # Page Object for checkout
+│   │   ├── LoginPage.ts             # Page Object for login
+│   │   └── CheckoutPage.ts          # Page Object for checkout
 │
 │   └── utils/
-│       ├── excel.ts                # Excel read/write logic
-│       ├── logger.ts               # Logging functionality
-│       ├── apiHelper.ts            # API utility methods
-│       └── dbHelper.ts             # Database operations
+│       ├── excel.ts                 # Excel read/write logic
+│       ├── logger.ts                # Logging functionality
+│       ├── apiHelper.ts             # API utility methods
+│       └── dbHelper.ts              # Database operations
 │
 ├── test-results/
-│   ├── results/                    # Playwright HTML reports
-│   │   └── index.html
+│   ├── results/
+│   │   └── index.html               # Playwright HTML report
 │   └── logs/
-│       └── execution.log           # Logs from latest test execution
+│       └── execution.log            # Execution logs
 │
 ├── .env                             # Environment configuration file
 ├── playwright.config.ts             # Playwright test runner config
 ├── package.json                     # Node.js project configuration
 ├── tsconfig.json                    # TypeScript configuration
 ├── README.md                        # Project documentation
-├── index.md                         # Optional markdown file (used by GitHub Pages or wikis)
-└── jest.config.ts (if applicable)   # Optional testing configs
+├── index.md                         # Optional markdown file (e.g., GitHub Pages)
+└── jest.config.ts                   # Optional Jest config (if applicable)
 
 ---
 
