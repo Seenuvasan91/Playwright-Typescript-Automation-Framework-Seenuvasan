@@ -1,0 +1,23 @@
+<x:Envelope
+    xmlns:x="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:com="com.advantage.online.store.accountservice">
+    <x:Header/>
+    <x:Body>
+        <com:AccountCreateRequest>
+            <com:lastName>Velmurugan</com:lastName>
+            <com:firstName>Seenuvasan</com:firstName>
+            <com:loginName>{userName}</com:loginName>
+            <com:countryId>Canada</com:countryId>
+            <com:stateProvince>Ontario</com:stateProvince>
+            <com:cityName>Toronto</com:cityName>
+            <com:address>401 Park, Canada</com:address>
+            <com:zipcode>M1B 2K4</com:zipcode>
+            <com:phoneNumber>{phoneNumber}</com:phoneNumber>
+            <com:email>{email}</com:email>
+            <com:password>{password}</com:password>
+            <com:accountType>USER</com:accountType>
+            <com:allowOffersPromotion>true</com:allowOffersPromotion>
+            <com:aobUser>false</com:aobUser>
+        </com:AccountCreateRequest>
+    </x:Body>
+</x:Envelope>
