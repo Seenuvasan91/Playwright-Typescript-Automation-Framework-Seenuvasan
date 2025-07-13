@@ -16,7 +16,7 @@
     "local:test:ui": "playwright test --project=local --ui"
   },
   "keywords": [],
-  "author": "Vinay Kumar B M",
+  "author": "Seenuvasan Velmurugan",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "1.37.0",
