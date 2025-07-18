@@ -1,9 +1,7 @@
 # 🎯 Playwright Test Automation Framework with TypeScript
 
 A data-driven end-to-end test automation framework built using **Playwright**, **TypeScript**, and **Node.js**, designed and maintained by **Seenuvasan Velmurugan**. This framework ensures scalable UI and API test execution with cross-browser support, Excel-driven data configuration, and CI/CD compatibility.
-
-> This project was executed as part of a freelance engagement for a client based in Toronto, Canada.  
-> All automation scripts and framework components were developed independently under remote collaboration.  
+  
 > The project scope included UI and API testing solutions tailored for production-grade environments.
 
 ---
